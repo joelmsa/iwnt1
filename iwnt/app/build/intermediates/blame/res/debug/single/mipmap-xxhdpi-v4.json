@@ -1,5 +1,9 @@
 [
     {
+        "merged": "C:\\Users\\Eden\\AndroidStudioProjects\\iwnt1\\iwnt\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\ic_launcher.png",
+        "source": "C:\\Users\\Eden\\AndroidStudioProjects\\iwnt1\\iwnt\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
         "merged": "C:\\Users\\DELL J\\Documents\\GitHub\\iwnt\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\ic_launcher.png",
         "source": "C:\\Users\\DELL J\\Documents\\GitHub\\iwnt\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
     },
