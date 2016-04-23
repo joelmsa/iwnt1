@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="utf-8"?>
-<merger version="3"><dataSet config="main"><source path="C:\Users\HECTOR ALEMAN\Documents\Angel\UJCV\PROGRAMACION DISPOSITIVOS MOVILES\iwnt\app\src\main\jniLibs"/></dataSet><dataSet config="debug"><source path="C:\Users\HECTOR ALEMAN\Documents\Angel\UJCV\PROGRAMACION DISPOSITIVOS MOVILES\iwnt\app\src\debug\jniLibs"/></dataSet></merger>
+<merger version="3"><dataSet config="main"><source path="C:\Users\Eden\AndroidStudioProjects\iwnt1\iwnt\app\src\main\jniLibs"/></dataSet><dataSet config="debug"><source path="C:\Users\Eden\AndroidStudioProjects\iwnt1\iwnt\app\src\debug\jniLibs"/></dataSet></merger>

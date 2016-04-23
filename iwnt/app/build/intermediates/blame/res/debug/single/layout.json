@@ -92,6 +92,10 @@
         "source": "C:\\Users\\DELL J\\Documents\\GitHub\\iwnt\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\select_dialog_item_material.xml"
     },
     {
+        "merged": "C:\\Users\\Eden\\AndroidStudioProjects\\iwnt1\\iwnt\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_lista_empresa.xml",
+        "source": "C:\\Users\\Eden\\AndroidStudioProjects\\iwnt1\\iwnt\\app\\src\\main\\res\\layout\\activity_lista_empresa.xml"
+    },
+    {
         "merged": "C:\\Users\\Eden\\AndroidStudioProjects\\iwnt1\\iwnt\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_header.xml",
         "source": "C:\\Users\\Eden\\AndroidStudioProjects\\iwnt1\\iwnt\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\22.2.1\\res\\layout\\design_navigation_item_header.xml"
     },
@@ -286,6 +290,10 @@
     {
         "merged": "C:\\Users\\HECTOR ALEMAN\\Documents\\Angel\\UJCV\\PROGRAMACION DISPOSITIVOS MOVILES\\iwnt\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
         "source": "C:\\Users\\HECTOR ALEMAN\\Documents\\Angel\\UJCV\\PROGRAMACION DISPOSITIVOS MOVILES\\iwnt\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Eden\\AndroidStudioProjects\\iwnt1\\iwnt\\app\\build\\intermediates\\res\\merged\\debug\\layout\\content_detalle_empresa.xml",
+        "source": "C:\\Users\\Eden\\AndroidStudioProjects\\iwnt1\\iwnt\\app\\src\\main\\res\\layout\\content_detalle_empresa.xml"
     },
     {
         "merged": "C:\\Users\\DELL J\\Documents\\GitHub\\iwnt\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_header.xml",

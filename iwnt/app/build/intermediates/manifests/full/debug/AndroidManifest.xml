@@ -50,6 +50,14 @@
             android:name="com.want.joel.iwnt.detalle_persona"
             android:label="@string/title_activity_detalle_persona"
             android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="com.want.joel.iwnt.listaEmpresa"
+            android:label="@string/title_activity_lista"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="com.want.joel.iwnt.detalle_empresa"
+            android:label="@string/title_activity_detalle_persona"
+            android:theme="@style/AppTheme.NoActionBar" />
     </application>
 
 </manifest>

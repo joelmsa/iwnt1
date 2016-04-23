@@ -53,7 +53,7 @@ public class lista extends AppCompatActivity {
 
         m_context = this;
 
-        String url = "http://iwnt.esy.es/personas.json";
+        String url = "http://iwant-ujcv.esy.es/personas.json";
 
         final Context context = this;
 

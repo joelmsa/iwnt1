@@ -31,6 +31,12 @@ public class menuActivity extends AppCompatActivity {
                 startActivity(new Intent(menuActivity.this, lista.class));
             }
         });
+        findViewById(R.id.imageButton2).setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                startActivity(new Intent(menuActivity.this, listaEmpresa.class));
+            }
+        });
     }
     public void personas (View v){
         Intent intent = new Intent(menuActivity.this,lista.class);
