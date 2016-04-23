@@ -1,5 +1,29 @@
 [
     {
+        "outputFile": "C:\\Users\\Eden\\AndroidStudioProjects\\iwnt1\\iwnt\\app\\build\\intermediates\\res\\merged\\debug\\values-w720dp-v13\\values-w720dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 76,
+                    "endOffset": 127
+                },
+                "from": {
+                    "file": "C:\\Users\\Eden\\AndroidStudioProjects\\iwnt1\\iwnt\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-w720dp\\values-w720dp.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 293,
+                        "endColumn": 76,
+                        "endOffset": 365
+                    }
+                }
+            }
+        ]
+    },
+    {
         "outputFile": "C:\\Users\\HECTOR ALEMAN\\Documents\\Angel\\UJCV\\PROGRAMACION DISPOSITIVOS MOVILES\\iwnt\\app\\build\\intermediates\\res\\merged\\debug\\values-w720dp-v13\\values-w720dp-v13.xml",
         "map": [
             {
@@ -24,7 +48,7 @@
         ]
     },
     {
-        "outputFile": "C:\\Users\\DELL J\\Documents\\GitHub\\iwnt\\app\\build\\intermediates\\res\\merged\\debug\\values-w720dp-v13\\values-w720dp-v13.xml",
+        "outputFile": "C:\\Users\\Caslop.DESKTOP-HAQGBJM\\Desktop\\Proyecto App\\iwnt1\\iwnt\\app\\build\\intermediates\\res\\merged\\debug\\values-w720dp-v13\\values-w720dp-v13.xml",
         "map": [
             {
                 "to": {
@@ -35,7 +59,7 @@
                     "endOffset": 127
                 },
                 "from": {
-                    "file": "C:\\Users\\DELL J\\Documents\\GitHub\\iwnt\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-w720dp\\values-w720dp.xml",
+                    "file": "C:\\Users\\Caslop.DESKTOP-HAQGBJM\\Desktop\\Proyecto App\\iwnt1\\iwnt\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-w720dp\\values-w720dp.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -48,7 +72,7 @@
         ]
     },
     {
-        "outputFile": "C:\\Users\\Eden\\AndroidStudioProjects\\iwnt1\\iwnt\\app\\build\\intermediates\\res\\merged\\debug\\values-w720dp-v13\\values-w720dp-v13.xml",
+        "outputFile": "C:\\Users\\DELL J\\Documents\\GitHub\\iwnt\\app\\build\\intermediates\\res\\merged\\debug\\values-w720dp-v13\\values-w720dp-v13.xml",
         "map": [
             {
                 "to": {
@@ -59,7 +83,7 @@
                     "endOffset": 127
                 },
                 "from": {
-                    "file": "C:\\Users\\Eden\\AndroidStudioProjects\\iwnt1\\iwnt\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-w720dp\\values-w720dp.xml",
+                    "file": "C:\\Users\\DELL J\\Documents\\GitHub\\iwnt\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-w720dp\\values-w720dp.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
