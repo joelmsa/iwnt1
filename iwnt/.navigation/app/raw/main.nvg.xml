@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<navigationModel
+  ns = "http://schemas.android.com?import=com.android.tools.idea.editors.navigation.model.*">
+  <locations  
+    class = "java.util.ArrayList">
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "com.want.joel.iwnt.LoginActivity"/>
+      <point      
+        x = "3020"      
+        y = "172"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "com.want.joel.iwnt.detalle_persona"/>
+      <point      
+        x = "1924"      
+        y = "-16"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "com.want.joel.iwnt.lista"/>
+      <point      
+        x = "844"      
+        y = "-16"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "com.want.joel.iwnt.menuActivity"/>
+      <point      
+        x = "-116"      
+        y = "-44"/>
+    </statePointEntry>
+  </locations>
+</navigationModel>
